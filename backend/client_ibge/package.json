@@ -1,0 +1,14 @@
+{
+  "name": "api_ibge",
+  "version": "1.0.0",
+  "description": "teste api",
+  "main": "ibge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Contreira",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

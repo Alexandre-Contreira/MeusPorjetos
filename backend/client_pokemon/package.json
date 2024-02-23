@@ -1,0 +1,14 @@
+{
+  "name": "api_pokemon",
+  "version": "1.0.0",
+  "description": "aprendizado para consumo de api via url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Contreira",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
